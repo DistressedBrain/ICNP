@@ -1,5 +1,5 @@
-# OSAIL
-# Online Service Agreedment and Internet Liscence
+# OSA
+# Online Service Agreedment
 
 # 1. Introduction
 
