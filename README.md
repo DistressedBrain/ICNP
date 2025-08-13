@@ -1,9 +1,9 @@
-# OSA
-# Online Service Agreedment
-
+# ICNP
+**I**nterconnected **C**ommunication **N**etwork **P**rotocol
 # 1. Introduction
 
 # 1.1 Motivation
-As you probaly heard about the censorship avalance happening since friday 07/26/2025 across multiple platforms and the idea of banning VPNs.
-I or WE descided to reconstruct the Internet or it's concept.
-This idea will follow similar parts as from DARPA Internet Protocol from 1981, but is extendet to a closed network wich is limited
+The ICNP is designed for the use to transmit data pacages from sources to destinations where both are end-to-end encrypted and addresses have no fixed length, but is used the IP6 address pattern and is from 0.0.1 to infinity as needed.
+
+# 1.2
+
