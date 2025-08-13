@@ -98,3 +98,11 @@ The following diagram illustrates the place of the internet protocol
 in the protocol hierarchy:
 
  ![ICNP hierarchy](https://cdn.discordapp.com/attachments/1155913540000022570/1405230662650167408/image.png?ex=689e1289&is=689cc109&hm=1b9db1b02aa9f4f5ffb86ecc0eebc0f561330fe2d40826e23526bff393cefbab&)
+
+ Another possible version
+
+ ![Version2](https://media.discordapp.net/attachments/1155913540000022570/1405231479973351565/image.png?ex=689e134c&is=689cc1cc&hm=cb15971cb5470e96799bec4425d2688cb5fe3f43ba7860646ef06d6776367729&=&format=webp&quality=lossless&width=1395&height=790)
+
+ # 2.2 Model of Operation
+
+ 
