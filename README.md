@@ -94,4 +94,7 @@ The model of operation is that an internet module resides in each host
 
  # 2.1 Relation to Other Protocols
 
+The following diagram illustrates the place of the internet protocol
+in the protocol hierarchy:
+
  ![ICNP hierarchy](https://cdn.discordapp.com/attachments/1155913540000022570/1405230662650167408/image.png?ex=689e1289&is=689cc109&hm=1b9db1b02aa9f4f5ffb86ecc0eebc0f561330fe2d40826e23526bff393cefbab&)
